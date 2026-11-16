@@ -1,0 +1,7 @@
+- indicate the date & time
+- change backgronud colours based on time of day
+- list priority to-dos 
+- list habits/tasks 
+- link to google calendar
+- show curated blog posts/news 
+- qotd
